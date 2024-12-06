@@ -3,8 +3,8 @@ Repository ini berisi proyek yang berjudul "Perbandingan Algoritma KNN dan Gradi
 
 Project Data mining Anggota Kelompok
 
-1.Dwi Vandela
-2.Cut Zahara
-3.Nurul Afdal
-4.Indrik Hotniati Berutu
-5.Ade Pria Ardiansyah Lembong
+1. Dwi Vandela
+2. Cut Zahara
+3. Nurul Afdal
+4. Indrik Hotniati Berutu
+5. Ade Pria Ardiansyah Lembong
